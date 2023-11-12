@@ -1,0 +1,20 @@
+body {
+  background-color: indianred;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.res {
+  background-color: red;
+  height: 300px;
+  width: 300px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 20px;
+  margin-left: 40px;
+}
